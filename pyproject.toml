@@ -1,0 +1,22 @@
+[build-system]
+requires = ["setuptools>=61.0", "wheel"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "routing_beats_latency"
+version = "1.0.0"
+description = "Routing Beats Latency: Input-Adaptive Heterogeneous Inference Under Strict Single-Sample Latency Constraints"
+readme = "README.md"
+requires-python = ">=3.8"
+dependencies = [
+    "torch>=2.0.0",
+    "torchvision>=0.15.0",
+    "timm>=0.9.0",
+    "opencv-python>=4.7.0",
+    "numpy>=1.22.0",
+    "pandas>=1.5.0",
+    "openpyxl>=3.1.0",
+    "matplotlib>=3.7.0",
+    "tqdm>=4.65.0",
+    "transformers>=4.30.0",
+]
