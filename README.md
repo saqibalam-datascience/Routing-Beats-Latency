@@ -148,7 +148,7 @@ python scripts/evaluate.py --split unseen
 
 ```bibtex
 @article{routingbeatslatency2026,
-  title={Routing Beats Latency: Input-Adaptive Heterogeneous Inference Under Strict Single-Sample Latency Constraints},
+  title={Routing Beats Latency},
   author={Anonymous Authors},
   journal={Transactions on Machine Learning Research (TMLR)},
   year={2026},
