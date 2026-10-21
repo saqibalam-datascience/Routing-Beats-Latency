@@ -1,4 +1,4 @@
-# Routing Beats Latency: Input-Adaptive Heterogeneous Inference Under Strict Single-Sample Latency Constraints
+# Routing Beats Latency
 
 [![Paper](https://img.shields.io/badge/TMLR-Accepted%20(Paper%209611)-b31b1b.svg)](https://openreview.net/)
 [![PyTorch](https://img.shields.io/badge/PyTorch-2.0%2B-ee4c2c.svg)](https://pytorch.org/)
